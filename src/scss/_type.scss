@@ -1,11 +1,16 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap');
 
 h1,h2,h3,h4,h5,h6,p,a,ul,ol,li {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  font-weight: 400;
+  opacity: 0.8;
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 2rem;
+  margin-bottom: 3em;
 }
 p {
   line-height: 1.5;
