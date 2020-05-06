@@ -1,0 +1,22 @@
+{
+  "name": "Het Syndicaat Amsterdam ",
+  "version": "1.0.0",
+  "description": "Ga met je hart",
+  "scripts": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "caniuse-lite": "^1.0.30001010",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sourcemaps": "^2.6.5"
+  }
+}

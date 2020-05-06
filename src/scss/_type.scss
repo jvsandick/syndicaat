@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600&display=swap');
+
+h1,h2,h3,h4,h5,h6,p,a,ul,ol,li {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-size: 4rem;
+}
+p {
+  line-height: 1.5;
+}
+
+a {
+  pointer-events: all;
+}
